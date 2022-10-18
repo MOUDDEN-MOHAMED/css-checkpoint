@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@700&display=swap');
+.grandparent{
+    background-color:#6a89cc;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    display: flex; 
+    justify-content: space-between;
+    height: 70px;
+    font-family: 'Roboto', sans-serif;
+    }
+    h1{
+        font-family: 'Roboto', sans-serif;
+        color: #60a3bc;
+        display: flex;
+        margin: 0%;
+    }
+
+.parent{
+    
+    display: flex; 
+    justify-items: center;
+}
+
+.parent2{ 
+    background-color: #fa983a;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    margin: 30px;
+    align-self: center;
+}
+.child1{
+    margin: 30px;
+}
+.child2{
+    margin: 30px;
+}
+.child3{
+    margin: 30px;
